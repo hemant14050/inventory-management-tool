@@ -1,6 +1,7 @@
 * Welcome to the Inventory Management System, a web application designed to help businesses keep track of their inventory.
 
 # Features
+* Spring MVC Architecture followed.
 * Add: Add new raw materials and processed items to the inventory.
 * Delete: Remove items from the inventory as needed.
 * View: View the current inventory and details of each item.
